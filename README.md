@@ -1,0 +1,1 @@
+Hi! This is about the setup of ROS2.
